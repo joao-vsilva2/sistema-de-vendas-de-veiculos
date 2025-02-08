@@ -121,7 +121,7 @@ O sistema está organizado em módulos, cada um responsável por uma parte espec
 
 ## Bibliotecas Utilizadas
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white): O SQLite é leve e armazena o banco de dados em um único arquivo, facilitando a portabilidade.
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) O SQLite é leve e armazena o banco de dados em um único arquivo, facilitando a portabilidade.
 
 ---
 
